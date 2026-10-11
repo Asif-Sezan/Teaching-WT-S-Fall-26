@@ -25,6 +25,7 @@
 - [Lab 1 - Sep 29](Lab1/README.md)
 - [Theory 2 - Oct 4](Theory2/README.md)
 - [Lab 2 - Oct 6](Lab2/README.md)
+- [Theory 3 - Oct 11](Theory3/README.md)
 
 
 ---
