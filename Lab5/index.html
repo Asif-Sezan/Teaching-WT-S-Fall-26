@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>DOM Manipulation Demo</title>
+</head>
+<body>
+	<script>
+		function changeHeading () {
+			let headings = document.querySelectorAll("h1");
+			// querySelectorAll always returns an array
+			// unlike getElementById, querySelector
+			console.log(headings);
+			headings[0].innerHTML = "New heading";
+		}
+	</script>
+	<h1>Old heading</h1>
+	<button onclick="changeHeading()">Change heading</button>
+	<h1>Old heading 2</h1>
+
+	<script>
+	</script>
+</body>
+</html>
