@@ -29,7 +29,7 @@
 - [Lab 3 - Oct 13](Lab3/README.md)
 - [Theory 4 - Oct 18](Theory4/README.md)
 - Lab 4 - Oct 20 (Holiday due to Durga Puja)
-- Theory 5 - Oct 25 (Makeup Pending)
+- Theory 5 - Oct 25 (Makeup scheduled for Thu 29th Oct)
 - [Lab 5 - Oct 27](Lab5/README.md)
 
 
